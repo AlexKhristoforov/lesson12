@@ -1,0 +1,16 @@
+{
+  "patients": [
+    {
+     "name": "Alex1",
+      "surname": "Khristoforov1",
+      "birth": "07-03-1996",
+      "health": "healthy"
+    },
+    {
+      "name": "Urban1",
+      "surname": "Pavel1",
+      "birth": "14-05-1995",
+      "health": "unhealthy"
+    }
+  ]
+}
